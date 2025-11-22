@@ -39,3 +39,8 @@
 
 # debug information files
 *.dwo
+
+#plaintext (yang disuruh)
+bin/
+obj/
+*.cbp
