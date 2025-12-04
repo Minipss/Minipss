@@ -35,13 +35,11 @@ Relasi* createRelasi(Penumpang* p, Ojek* o);
 
 void insertPenumpang(Penumpang* p);
 void insertOjek(Ojek* o);
-
 void hubungkanPenumpangKeOjek(Penumpang* p, Ojek* o);
-
 Penumpang* findPenumpang(string id);
 Ojek* findOjek(string id);
-
 void tampilPenumpang();
 
 
 #endif // PENUMPANG_H_INCLUDED
+
